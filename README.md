@@ -1,0 +1,2 @@
+# WebCoinBot
+WebCoinBotBeta
